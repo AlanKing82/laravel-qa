@@ -10015,3 +10015,18 @@ h3 {
   width: 60px;
   height: 60px;
 }
+.counters .status.unanswered {
+  border: none;
+}
+.counters .status.answered {
+  border: 1px solid #5fb97e;
+  color: #5fb97e;
+}
+.counters .status.answered-accepted {
+  background: #5fb97e;
+  color: #fff;
+}
+
+.view {
+  margin-top: 10px;
+}
