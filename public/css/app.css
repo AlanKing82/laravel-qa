@@ -10026,7 +10026,10 @@ h3 {
   background: #5fb97e;
   color: #fff;
 }
-
-.view {
+.counters .view {
   margin-top: 10px;
+}
+
+form.form-delete {
+  display: inline;
 }
